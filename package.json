@@ -1,6 +1,6 @@
 {
-  "name": "bundel",
-  "description": "bundel description",
+  "name": "flot-spline",
+  "description": "Flot plugin that provides spline interpolation for line graphs",
   "version": "0.0.1",
   "homepage": "https://github.com/johnpozy/flot-spline",
   "repository": "https://github.com/johnpozy/flot-spline",
